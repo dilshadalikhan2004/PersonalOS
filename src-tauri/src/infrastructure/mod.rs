@@ -1,0 +1,10 @@
+pub mod chat_repository;
+pub mod crypto;
+pub mod keychain;
+pub mod metadata_repository;
+pub mod ocr_repository;
+pub mod ollama_client;
+pub mod sqlite_document_repository;
+pub mod storage_error;
+pub mod upload_repository;
+pub mod vector_repository;
